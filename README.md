@@ -11,7 +11,7 @@ You can check out my LinkedIn for my resume and other important stuff at www.lin
 ## Skills
 To save myself time and give you a better understanding of my skillset, I have created a repository that I will regularly update with all my coding knowledge whenever I learn something new.
 
-[![Tutorial Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaseHutcheson&repo=Tutorials)](https://github.com/ChaseHutcheson/Tutorials)
+[![Tutorial Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaseHutcheson&repo=Tutorials&theme=chartreuse-dark)](https://github.com/ChaseHutcheson/Tutorials)
 
 ## Stats
 [![Chase's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaseHutcheson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
