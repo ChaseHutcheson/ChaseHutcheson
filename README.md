@@ -4,7 +4,7 @@
 
 # Hey there! 👋
 
-My name is Chase Hutcheson, and I'm and aspiring software developer currently pursuing a Bachelors in Computer Science at Youngstown State University! I really enjoy problem-solving, learning new/modern coding languages and frameworks like React, React Native, Angular, .NET, and Ruby, and I have a deep appreciation of computer history. Some other things about me would be my love of playing guitar, playing video games and robotics. 
+My name is Chase Hutcheson, an I'm and aspiring software developer currently pursuing a Bachelors in Computer Science at Youngstown State University! I really enjoy problem-solving, learning new/modern coding languages and frameworks like React, React Native, Angular, .NET, and Ruby, and I have a deep appreciation of computer history. Some other things about me would be my love of playing guitar, playing video games and robotics. 
 
 You can check out my LinkedIn for my resume and other important stuff at www.linkedin.com/in/chase-hutcheson-b46371291/
 
