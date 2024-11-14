@@ -9,9 +9,23 @@ My name is Chase Hutcheson, an I'm and aspiring software developer currently pur
 You can check out my LinkedIn for my resume and other important stuff at www.linkedin.com/in/chase-hutcheson-b46371291/
 
 ## Skills
-To save myself time and give you a better understanding of my skillset, I have created a repository that I will regularly update with all my coding knowledge whenever I learn something new.
-
-[![Tutorial Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaseHutcheson&repo=Tutorials&theme=chartreuse-dark)](https://github.com/ChaseHutcheson/Tutorials)
+I currently am learning ASP.NET Web API and the MVC architecthure that it utilizes. 
+Other skills I know include:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>JQuery</li>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>C#</li>
+  <li>React</li>
+  <li>React Native</li>
+  <li>Python</li>
+  <li>FastAPI</li>
+  <li>Pygame</li>
+  <li>WebScraping</li>
+</ul>
 
 ## Stats
 [![Chase's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaseHutcheson&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
