@@ -1,30 +1,16 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChaseHutcheson/ChaseHutcheson/main/banner.gif" alt="Spinning banner of kirby" width="200px" />
-</p>
+# Thanks for checking out my profile
 
-# Hey there! 👋
-
-My name is Chase Hutcheson, an I'm and aspiring software developer currently pursuing a Bachelors in Computer Science at Youngstown State University! I really enjoy problem-solving, learning new/modern coding languages and frameworks like React, React Native, Angular, .NET, and Ruby, and I have a deep appreciation of computer history. Some other things about me would be my love of playing guitar, playing video games and robotics. 
+My name's Chase Hutcheson, and currently, I'm both a Computer Science student at <a href="https://ysu.edu/mission">Youngstown State University</a> and a Student Developer at an MVP development group called <a href="https://www.youngstown.dev/">Dev Youngstown</a>
 
 You can check out my LinkedIn for my resume and other important stuff at www.linkedin.com/in/chase-hutcheson-b46371291/
 
 ## Skills
-I currently am learning ASP.NET Web API and the MVC architecthure that it utilizes. 
-Other skills I know include:
 <ul>
+  <li>Python</li>
+  <li>C++</li>
+  <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript</li>
-  <li>JQuery</li>
-  <li>Node.js</li>
-  <li>Express</li>
-  <li>C#</li>
-  <li>React</li>
-  <li>React Native</li>
-  <li>Python</li>
-  <li>FastAPI</li>
-  <li>Pygame</li>
-  <li>WebScraping</li>
 </ul>
 
 ## Stats
